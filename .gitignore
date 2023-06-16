@@ -20,13 +20,13 @@ yarn-error.log
 
 
 
-/client//node_modules
-/client//.pnp
+/client/node_modules
+/client/.pnp
 /client/.pnp.js
 
-/client//coverage
+/client/coverage
 
-/client//build
+/client/build
 
 .DS_Store
 .env.local
